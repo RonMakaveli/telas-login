@@ -1,2 +1,2 @@
 # telas-login
-Algumas telas de login desenvolvidas durante o estudo
+Algumas telas de login desenvolvidas durante meus estudos
